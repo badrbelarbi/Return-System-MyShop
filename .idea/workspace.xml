@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a30bb09-d24a-4c2e-b415-e3a44b64f884" name="Changes" comment="corrected markdown for COC" />
+    <list default="true" id="9a30bb09-d24a-4c2e-b415-e3a44b64f884" name="Changes" comment="comments deleted">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="DevelopmentTest" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/Universidad/Documents/Second Year/SecondQuartail/ProjectClientOnBoard/AssignmentCode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/badre/Downloads/repoProject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -40,6 +43,41 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/template/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/template/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.dev (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.dev (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +92,13 @@
       <workItem from="1702990872465" duration="112000" />
       <workItem from="1702991591148" duration="45000" />
       <workItem from="1702991794541" duration="1948000" />
+      <workItem from="1706297520497" duration="402000" />
+      <workItem from="1706404603884" duration="11440000" />
+      <workItem from="1706702893036" duration="1276000" />
+      <workItem from="1707317777648" duration="675000" />
+      <workItem from="1707428746716" duration="1035000" />
+      <workItem from="1707665394048" duration="1248000" />
+      <workItem from="1708604289173" duration="1411000" />
     </task>
     <task id="LOCAL-00001" summary="routers and controllers pablo">
       <created>1702240872765</created>
@@ -97,7 +142,91 @@
       <option name="project" value="LOCAL" />
       <updated>1702844636802</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pie chart fully fixed ; made query to fetch most returned products">
+      <created>1706132009269</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706132009269</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pie chart fully fixed ; made query to fetch most returned products">
+      <created>1706142201691</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706142201691</updated>
+    </task>
+    <task id="LOCAL-00009" summary="product most returned fixed">
+      <created>1706181372690</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706181372690</updated>
+    </task>
+    <task id="LOCAL-00010" summary="product most pie chart returned fixed">
+      <created>1706181814557</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706181814557</updated>
+    </task>
+    <task id="LOCAL-00011" summary="api spec">
+      <created>1706405122206</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706405122206</updated>
+    </task>
+    <task id="LOCAL-00012" summary="api spec get done post">
+      <created>1706438291021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706438291021</updated>
+    </task>
+    <task id="LOCAL-00013" summary="api spec delete done post">
+      <created>1706439358891</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706439358891</updated>
+    </task>
+    <task id="LOCAL-00014" summary="delete done API">
+      <created>1706439585455</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706439585455</updated>
+    </task>
+    <task id="LOCAL-00015" summary="api done!">
+      <created>1706440472106</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706440472106</updated>
+    </task>
+    <task id="LOCAL-00016" summary="comments deleted">
+      <created>1706448308550</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706448308550</updated>
+    </task>
+    <task id="LOCAL-00017" summary="comments deleted">
+      <created>1706448350120</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706448350120</updated>
+    </task>
+    <task id="LOCAL-00018" summary="comments deleted">
+      <created>1706448391843</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706448391843</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +264,15 @@
     <MESSAGE value="update" />
     <MESSAGE value="database finished not tested and hopefully all queries" />
     <MESSAGE value="corrected markdown for COC" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected markdown for COC" />
+    <MESSAGE value="pie chart fully fixed ; made query to fetch most returned products" />
+    <MESSAGE value="product most returned fixed" />
+    <MESSAGE value="product most pie chart returned fixed" />
+    <MESSAGE value="api spec" />
+    <MESSAGE value="api spec get done post" />
+    <MESSAGE value="api spec delete done post" />
+    <MESSAGE value="delete done API" />
+    <MESSAGE value="api done!" />
+    <MESSAGE value="comments deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments deleted" />
   </component>
 </project>
